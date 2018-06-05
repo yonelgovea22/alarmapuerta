@@ -20,3 +20,5 @@ emitir  un sonido, a partir de un campo magnético generado a un
 reed switch, logrando disminuir el consumo de energía.
 <br>
 <img src="https://github.com/yonelgovea22/alarmapuerta/blob/master/IMG_20180605_100343.jpg" width="250" height="250" /> 
+
+<img src="https://github.com/yonelgovea22/alarmapuerta/blob/master/IMG_20180605_100403.jpg" width="250" height="250" /> 
